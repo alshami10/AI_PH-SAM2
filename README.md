@@ -8,7 +8,7 @@ This project is sponsored by **NSF DART**
 ## Project Description
 PH-SAM2-AI-Medical-Images-Segmentation-Interpretation is a framework for automated medical image segmentation and interpretation of knee implant X-ray radiographs. It combines persistent homology with [SAM2](https://github.com/facebookresearch/sam2) for fully automatic, zero-shot segmentation without fine-tuning. Topology-based centroids are used to guide SAM2 prompts, and the AI interpretation pipeline supports analysis of segmented implant regions for improved medical image understanding.
 
-## Student Contributors
+## Contributors
 - **Malak Bachri** — GitHub: `Malak Bachri`
 
 ## Repository Information
