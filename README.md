@@ -10,6 +10,7 @@ PH-SAM2-AI-Medical-Images-Segmentation-Interpretation is a framework for automat
 
 ## Contributors
 - **Malak Bachri** — GitHub: `Malak Bachri`
+- **Qusai Gazawy** — GitHub: `Qusai-Gazawy`
 
 ## Repository Information
 This repository contains the code, notebooks, models, and documentation for the PH-SAM2 AI medical image segmentation and interpretation pipeline.
