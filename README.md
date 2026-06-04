@@ -1,7 +1,7 @@
 # AI_PH-SAM2: AI Based Medical Images Segmentation and Interpretation
 
 <p align="center">
-  <img src="assets/ph-sam2-pipeline.png" alt="PH-SAM2 Pipeline" width="700">
+  <img src="AI_PH-SAM2.png" alt="AI PH-SAM2 Pipeline" width="700">
 </p>
 
 AI-PH-SAM2 uses persistent homology and [SAM2] (https://github.com/facebookresearch/sam2) for fully automatic, zero-shot segmentation of knee implants in X-rays, plus rail-guarded LLM interpretation with ChatGPT, Gemini, Claude, and Grok-as-Judge. Tested on 200 radiographs, SAM2-Large performed best.
