@@ -28,5 +28,5 @@ Each model independently analyzes the segmented image using the same retrieved o
 This repository contains the code, notebooks, models, and documentation for the PH-SAM2 AI medical image segmentation and interpretation pipeline.
 
 ## Acknowledgment
-This work was supported by **NSF DART (Award No. OIA-1946391)**.
-The council architecture was inspired by Andrej Karpathy's LLM Council framework: https://github.com/karpathy/llm-council
+- This work was supported by **NSF DART (Award No. OIA-1946391)**.
+- The council architecture was inspired by Andrej Karpathy's LLM Council framework: https://github.com/karpathy/llm-council
