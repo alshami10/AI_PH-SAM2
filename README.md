@@ -23,6 +23,7 @@ Each model independently analyzes the segmented image using the same retrieved o
 ## Contributors
 - **Malak Bachri** — GitHub: `Malak Bachri`
 - **Qusai Gazawy** — GitHub: `Qusai-Gazawy`
+- **Dr. Ahmad Al Shami (Supervisor)** — GitHub: `alshami10`
 
 ## Repository Information
 This repository contains the code, notebooks, models, and documentation for the PH-SAM2 AI medical image segmentation and interpretation pipeline.
