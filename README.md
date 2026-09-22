@@ -22,7 +22,6 @@ Each model independently analyzes the segmented image using the same retrieved o
 
 ## Contributors
 - **Malak Bachri** — GitHub: `Malak Bachri`
-- **Qusai Gazawy** — GitHub: `Qusai-Gazawy`
 - **Dr. Ahmad Al Shami (Supervisor)** — GitHub: `alshami10`
 
 ## Repository Information
